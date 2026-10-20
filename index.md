@@ -1,5 +1,3 @@
-
-
 Welcome to my personal page for my Python course.
 
 ## About Me
