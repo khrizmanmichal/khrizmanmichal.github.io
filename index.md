@@ -10,26 +10,22 @@
   }
 </style>
 
-# 🌸 Hello, I'm Michal! 🐱
+# Hello, I'm Michal! 🐱
 
-Welcome to my academic portfolio. I am a passionate researcher with a deep curiosity for biological sciences, currently advancing my studies at the graduate level.
+Welcome to my Webpage!
 
 ## 🔬 About Me
 
-I am currently an **M.S. student at the Weizmann Institute of Science**. My academic journey began with a **B.Sc. in Biology from the Hebrew University of Jerusalem (HUJI)**, where I built a strong foundation in biological mechanisms and research methodologies.
-
-## 📚 Education
-
-* **M.S. in Life Sciences** — *Weizmann Institute of Science* (Current)
-* **B.Sc. in Biology** — *The Hebrew University of Jerusalem*
+I am currently an **M.S. student at the Weizmann Institute of Science** in the Jeffrey Gerst lab. I work with yeast to uncover the mechanisms behind targeting the mRNA of secreted and membrane proteins to the ER, using techniques such as smFISH and qPCR.
 
 ## 💖 Personal Interests
 
 Balancing life in and out of the lab is important to me! When I am not conducting research, you can usually find me:
 
-* 🐈 Spending time with cats (my absolute favorite!).
-* 🧬 Keeping up with the latest discoveries in the life sciences.
-* 🎀 Exploring new coffee shops and relaxing with a good book.
+* 🐈 Spending time with my cats (my absolute favorite!).
+* 📚 Reading a good book.
+* 🎥 Watching a movie.
+* 💪 Lifting weights at the gym.
 
 ---
 
