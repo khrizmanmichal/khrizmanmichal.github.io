@@ -57,7 +57,7 @@ Balancing life in and out of the lab is important to me! When I am not conductin
 
 </div>
 <div class="cat-photo">
-<img src="alex.jpg" alt="Alex, one of my cats">
+<img src="alex.jpeg" alt="Alex, one of my cats">
 <p>One of my cats, Alex</p>
 </div>
 </div>
