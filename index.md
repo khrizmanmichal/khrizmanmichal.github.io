@@ -8,6 +8,31 @@
   a {
     color: #E91E63;
   }
+  .interests-row {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    flex-wrap: wrap;
+  }
+  .interests-text {
+    flex: 1;
+    min-width: 250px;
+  }
+  .cat-photo {
+    text-align: center;
+  }
+  .cat-photo img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 4px solid #E91E63;
+  }
+  .cat-photo p {
+    margin-top: 8px;
+    font-style: italic;
+    color: #C2185B;
+  }
 </style>
 
 # Hello, I'm Michal! 🐱
@@ -20,12 +45,22 @@ I am currently an **M.S. student at the Weizmann Institute of Science** in the J
 
 ## 💖 Personal Interests
 
+<div class="interests-row">
+<div class="interests-text" markdown="1">
+
 Balancing life in and out of the lab is important to me! When I am not conducting research, you can usually find me:
 
 * 🐈 Spending time with my cats (my absolute favorite!).
 * 📚 Reading a good book.
 * 🎥 Watching a movie.
 * 💪 Lifting weights at the gym.
+
+</div>
+<div class="cat-photo">
+<img src="alex.jpg" alt="Alex, one of my cats">
+<p>One of my cats, Alex</p>
+</div>
+</div>
 
 ---
 
