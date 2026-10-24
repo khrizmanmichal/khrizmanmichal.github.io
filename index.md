@@ -43,6 +43,10 @@ Welcome to my Webpage!
 
 I am currently an **M.S. student at the Weizmann Institute of Science** in the Jeffrey Gerst lab. I work with yeast to uncover the mechanisms behind targeting the mRNA of secreted and membrane proteins to the ER, using techniques such as smFISH and qPCR.
 
+## 🎯 My Goals with the Course
+
+With the help of this course, I hope to be able to automate lab tasks and process scientific data, for example, produce graphs for qPCR results with statistical analysis, which is something I've had to rely on my lab members for. I would also like to better understand Python and be able to code some things, as this is a skill I believe will be the bare minimum for most jobs in the next decade.
+
 ## 💖 Personal Interests
 
 <div class="interests-row">
