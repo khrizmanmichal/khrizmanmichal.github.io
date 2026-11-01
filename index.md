@@ -59,7 +59,7 @@ Balancing life in and out of the lab is important to me! When I am not conductin
 * 📚 Reading a good book.
 * 🎥 Watching a movie.
 * 💪 Lifting weights at the gym.
-🐾 I also support [Rehovot Loves Animals](https://www.rehovotlovesanimals.org/), a local organization that helps animals.
+* 🐾 I also support [Rehovot Loves Animals](https://www.rehovotlovesanimals.org/), a local organization that helps animals.
 
 </div>
 <div class="cat-photo">
